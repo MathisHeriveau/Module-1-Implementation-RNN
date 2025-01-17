@@ -42,8 +42,6 @@ Les **poids** sont des valeurs numériques qui ajustent l'importance des entrée
 
 ### 3. **Les fonctions d'activation** 🔧
 
-<img src="activation-cerveau-biologique-1024x682.jpeg" alt="Texte alternatif" width="250"/>
-
 Les fonctions d'activation transforment les sorties des neurones avant de les transmettre aux couches suivantes. Par exemple, une fonction populaire est la **ReLU** (Rectified Linear Unit), qui aide à accélérer l'entraînement du modèle.
 
 <img src="fonctions-dactivation.png" alt="Texte alternatif" width="500"/>
