@@ -1,4 +1,4 @@
-# 🚗 **Module 1 - Implémentation d'un RNN (Recurrent Neural Network)**
+# **Module 1 - Implémentation d'un RNN (Recurrent Neural Network)**
 
 Bienvenue dans ce projet d'implémentation d'un **réseau de neurones récurrent (RNN)** ! Ce document présente une introduction au concept des réseaux de neurones, leur fonctionnement, et comment nous avons utilisé ces principes pour implémenter un modèle d'apprentissage avec des **récompenses** et **pénalités**. 
 
