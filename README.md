@@ -29,7 +29,7 @@ Les neurones dans un réseau de neurones artificiel sont **des fonctions mathém
 
 ## 💡 Composants d'un réseau de neurones
 
-![Texte alternatif de l'image](schema-simple-reseau-de-neurones.jpeg)
+<img src="schema-simple-reseau-de-neurones.jpeg" alt="Texte alternatif" width="500"/>
 
 ### 1. **Les neurones** 🧠
 Les neurones d'un réseau de neurones traitent les données d'entrée et génèrent des sorties. Ils sont organisés en **couches** (layers). Il y a généralement trois types de couches :
@@ -42,17 +42,17 @@ Les **poids** sont des valeurs numériques qui ajustent l'importance des entrée
 
 ### 3. **Les fonctions d'activation** 🔧
 
-![Texte alternatif de l'image](activation-cerveau-biologique-1024x682.jpeg)
+<img src="activation-cerveau-biologique-1024x682.jpeg" alt="Texte alternatif" width="500"/>
 
 Les fonctions d'activation transforment les sorties des neurones avant de les transmettre aux couches suivantes. Par exemple, une fonction populaire est la **ReLU** (Rectified Linear Unit), qui aide à accélérer l'entraînement du modèle.
 
-![Texte alternatif de l'image](fonctions-dactivation.png)
+<img src="fonctions-dactivation.png" alt="Texte alternatif" width="500"/>
 
 ---
 
 ## 🛠️ Comment fonctionnent les réseaux de neurones ?
 
-![Texte alternatif de l'image](schema-processus-1024x939.png)
+<img src="schema-processus-1024x939.png" alt="Texte alternatif" width="500"/>
 
 Le fonctionnement d'un réseau de neurones peut être décrit par trois étapes principales :
 
