@@ -2,6 +2,9 @@
 
 Bienvenue dans ce projet d'implémentation d'un **réseau de neurones récurrent (RNN)** ! Ce document présente une introduction au concept des réseaux de neurones, leur fonctionnement, et comment nous avons utilisé ces principes pour implémenter un modèle d'apprentissage avec des **récompenses** et **pénalités**. 
 
+![Texte alternatif de l'image](rweiss_machine_learning_like_brain_part_one_neurons_slow_slow_slow_1.jpg)
+
+
 ---
 
 ## 🤔 Qu'est-ce qu'un réseau de neurones ?
